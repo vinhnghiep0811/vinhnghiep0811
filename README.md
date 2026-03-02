@@ -1,7 +1,9 @@
 # 👋 About me:
 
-Hi, I'm NgocThach. I'm currently studying at Ho Chi Minh City University of Technology - VNUHCM.
-I 'm a fullstack software developer.
+Hi, I'm VinhNghiep. I'm currently studying at Ho Chi Minh City University of Technology - VNUHCM.
+
+I'm a backend software developer.
+
 I always want to learn more to improve my knowledge. 
 
 ---
