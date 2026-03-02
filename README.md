@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Nghiep Le!
+# 👋 About me:
 
-🎓 I'm a backend developer passionate about **Python, Django, and Odoo**  
-🌱 Learning: System design, DevOps, and CI/CD  
-💬 Ask me about: REST APIs, Docker, Git, and clean architecture  
+Hi, I'm NgocThach. I'm currently studying at Ho Chi Minh City University of Technology - VNUHCM.
+I 'm a fullstack software developer.
+I always want to learn more to improve my knowledge. 
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,java,git,docker,postgresql,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,c++,javascript,react,git,docker,postgresql,mysql,mongodb,redis" />
 </p>
 
 ---
