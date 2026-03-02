@@ -8,7 +8,16 @@ I always want to learn more to improve my knowledge.
 
 ### 🛠️ Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,java,c++,javascript,react,git,docker,postgresql,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,cpp,javascript,react,git,docker,postgresql,mysql,mongodb,redis" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinhnghiep0811&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinhnghiep0811&theme=tokyonight" height="170"/>
 </p>
 
 ---
